@@ -13,7 +13,11 @@ In your README, create a subheading ## Summary Statistics on Suspension Coils, a
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-## Written SummaryD3
+## Written Summary D3
+
+In your README, create a subheading ## T-Tests on Suspension Coils, then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
+## Written SummaryD4
 Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
 
 Follow the instructions below to complete Deliverable 4.
