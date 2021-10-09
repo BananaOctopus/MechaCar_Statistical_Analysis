@@ -1,11 +1,15 @@
 # MechaCar_Statistical_Analysis
 
-## Written SummaryD1
-In your README, create a subheading, ## Linear Regression to Predict MPG, and write a short summary using a screenshot of the output from the linear regression, and address the following questions:
+## Linear Regression 
+
+![Deliverable1](https://user-images.githubusercontent.com/84158312/136624813-2d712c0c-0e14-44c5-b43b-610b5cb78059.png)
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- Both the ground clearance and the mpg P-Values proved these datasets had non-random variance.
 Is the slope of the linear model considered to be zero? Why or why not?
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+
 
 ## Written SummaryD2
 Written Summary
