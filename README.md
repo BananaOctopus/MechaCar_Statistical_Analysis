@@ -30,17 +30,11 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ### T-Test Data Sets
 ![Delieverable3](https://user-images.githubusercontent.com/84158312/136677525-ce909d9d-a484-42fe-b577-e59579c5bf43.png)
 
-, then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+The T-Tests for the Suspension Coils echoes what the Data Sets in the Summary Statistics section, that all the data together, as well as Lot 1 and 2 have none significant P-Values indicating that the suspension coils are working as they were designed to, the null hypothesis is supported. However, Lot 3's T-Test shows that the P-Value is significant, supporting the Alternative Hypothesis that the true mean is not 1500, where the manufactor wants it to be at.
 
-## Written SummaryD4
-Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+## Study Design: MechaCar vs Competition.
 
-Follow the instructions below to complete Deliverable 4.
-
-In your README, create a subheading ## Study Design: MechaCar vs Competition.
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+With rising gas prices and more people on the road then ever before, most consumers that are looking for a casual car are looking for one that has high fuel efficiency.
+  -Fuel Efficiency can be tested by how long the motor can run on one fill up til it runs out of fuel. The total miles are then divided by the total gallons available within the tank. 
+  -The null hypothesis would be that the MechaCar has the same mpg rating as other similar cars. The Alternative Hypothesis would be that it does not have a similar mpg rating. 
+  - We could preform a One-Sample T-Test to get the MechaCars mpg rating, then we can preform either a Two-Sample T-Test with one other car, or we can run an ANOVA with data from many different car models from different brands.
