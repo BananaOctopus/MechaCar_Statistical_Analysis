@@ -36,8 +36,8 @@ The T-Tests for the Suspension Coils echoes what the Data Sets in the Summary St
 
 With rising gas prices and more people on the road then ever before, most consumers that are looking for a casual car are looking for one that has high fuel efficiency.
   
-  -Fuel Efficiency can be tested by how long the motor can run on one fill up til it runs out of fuel. The total miles are then divided by the total gallons available within the tank. 
+  - Fuel Efficiency can be tested by how long the motor can run on one fill up til it runs out of fuel. The total miles are then divided by the total gallons available within the tank. 
   
-  -The null hypothesis would be that the MechaCar has the same mpg rating as other similar cars. The Alternative Hypothesis would be that it does not have a similar mpg rating. 
+  - The null hypothesis would be that the MechaCar has the same mpg rating as other similar cars. The Alternative Hypothesis would be that it does not have a similar mpg rating. 
   
   - We could preform a One-Sample T-Test to get the MechaCars mpg rating, then we can preform either a Two-Sample T-Test with one other car, or we can run an ANOVA with data from many different car models from different brands.
